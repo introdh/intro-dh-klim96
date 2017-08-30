@@ -22,4 +22,20 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
  
  Create your response below this line. 
  ------------------
+## *A Favorite Quote*
+> I stand behind my decision to avoid salad and other disgusting things. -Leslie Knope
+## *A Favorite Photo* 
+![alt text](http://cdn.everybodylovesitalian.com/wp-content/uploads/2015/03/brusschetta.jpg "Carluccio's pizza in Northfield, NJ")
+[Photo Source](http://everybodylovesitalian.com/carluccios-coal-fired-pizza-on-diners-drive-ins-and-dives/)
+## *A Favorite Photo* 
+## The biggest questions I have going into this class are:
+1. What is the purpose of digital humanities?
+2. How will we use Markdown in the class?
+3. How does the digital humanities relate to rhetoric?
+### Playing Around
+1. Hi Dr. Tilton!
+2. I really hope I'm doing this correctly!
 
+   It's a little confusing!
+
+>But I hope to get the hang of it soon  
