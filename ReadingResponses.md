@@ -12,7 +12,7 @@ Though this sentence is still vague, it helped me get a general idea of what our
 
 > UNCLEAR: "The distant reason for these choices lies in my Marxist formation, which was profoundly influnced by Galvano DellaVolpe, and enailed therefore (in principle, if not always in practice) a great respect for the scientific spirit."
 
-With this sentence, I lost Moretti's interpretation of "distant"; what makes the reasoning for this distant?
+With this sentence, I lost Moretti's interpretation of "distant." What makes the reasoning for this distant?
 
 #### Schutlz Reading
 > AHA!: "O.K., he means the protagonist is the character with the smallest average degree of separation from the others, 'the center of the network.'"
@@ -30,7 +30,7 @@ This quote helped bring all three readings together and helped me bertter unders
 
 >UNCLEAR: "As 'findings,' not 'interpretations,' they have about them a deceptive simplicity, a simplicity or finality that appears to render them 'uninteresting' to scholars conditioned to reject the idea of a closed argument."
 
-This quote is in reference to John Burrows's analysis of Jane Austen's works; I am not sure what Jockers is explaining in terms of simplicity and the difference between findings and interpretations.
+This quote is in reference to John Burrows's analysis of Jane Austen's works; I am not sure what Jockers is saying about simplicity and the difference between findings and interpretations.
 
 ### 2017-09-25: Topic modeling I
 
