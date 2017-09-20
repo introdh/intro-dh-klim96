@@ -4,7 +4,7 @@ The goal of this assignment is to collect and document a humanities data set.
 
 ## Data Set
 Store the data set as tidy data as discussed in class.  The data set must:
-- Have at least two tables linked by an identifier. 
+
 - The larger table must have at least 30 elements.
 - The smaller table must have at least 5 elements.
 - Contain at least two numeric variables.
