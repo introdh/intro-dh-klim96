@@ -33,6 +33,42 @@ This quote helped bring all three readings together and helped me bertter unders
 This quote is in reference to John Burrows's analysis of Jane Austen's works; I am not sure what Jockers is saying about simplicity and the difference between findings and interpretations.
 
 ### 2017-09-25: Topic modeling I
+#### Brett Reading
+> **AHA!:** "One way to think about how the process of topic modeling works is to imagine working through an article with a set of highlighters. As you read through the article, you use a different color for the key words of themes within the paper as you come across them. When you were done, you could copy out the words as grouped by the color you assigned them. That list of words is a topic, and each color represents a different topic."
+
+As someone who obsessively highlights her readings, I was able to relate to this quote, which helped in my understanding of topic modeling.
+
+> **UNCLEAR:** "The only way to know if your results are useful or widly off the mark is to have a general idea of what you should be seeing."
+
+As someone from a psychology background, I constantly worry about researcher bias tainting results; however, I am also a rhetoric major, so I understand that humanities work includes interpretation and that knowing the context of one's work is helpful in interpreting results. However, I wonder how digital humanities researchers deal with bias in their work.
+
+#### Weingart and Meeks Reading
+> **AHA!:** "[Topic modeling] is distant reading in the most pure sense: focused on corpora and not individual texts, treating the works themselves as unceremonious 'buckets of words,' and providing seductive but obscure results in the forms of easily interpreted (and manipulated) 'topics.'"
+
+This quote, along with the quote from the Brett reading, helped me to understand topic modeling.
+
+> **UNCLEAR:** "In this additional way topic modeling typifies digital humanities: the work is almost entirely represented in that gray literature."
+
+In rhetoric, we are always talking about breaking out of the "ivory tower" of academia. Is that what this quote and the paragraph that follows are referring to?
+
+#### Blevins Reading
+> **UNCLEAR:** "The diary's format translates nicely into creating a list of lists - the 'main' diary being a list of all the entries, and each entry being a list in and of itself."
+
+This quote and the breakdown that follows it were confusing; I am unsure why Blevins broke the diary down into "a list of lists," what it means, and what its purpose is.
+
+> **AHA!:** Once the data was scrubbed, we could turn to writing a program that would count the number of deliveries recorded in the diary."
+
+After I read Blevins's example of counting the deliveries in Ballard's diary, I was able to better understand what Blevins was doing and how she was doing it.
+
+#### Goldstone and Underwood Reading
+
+> **AHA!:** "[Topic modeling] has the potential to reveal shifts in critical vocabulary that aren't well described, and that don't fit our received assumptions about the history of the discipline."
+
+Goldstone and Underwood's explanation of how we can use topic modeling to show subtle, rhetorical differences and how these trends that may go unnoticed can be important was helpful for me to understand the purpose of topic modeling; through my work with the Race and Racism at UR project and in my rhetoric classes, I learned the importance of uncovering data that history has kept hidden.
+
+> **UNCLEAR:** "As you vary the overall number of topics, some topics seem to simply disappear."
+
+I am unsure of what Goldstone and Underwood mean by this and the example that followed was very difficult to understand.
 
 ### 2017-10-02: Topic Modeling II
 
