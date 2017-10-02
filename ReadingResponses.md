@@ -72,7 +72,6 @@ I am unsure of what Goldstone and Underwood mean by this and the example that fo
 
 ### 2017-10-02: Topic Modeling II
 #### Robinson Reading
-
 > **AHA!:** "My analysis, shown below, concludes that the Android and iPhone tweets are clearly from different people, posting during different times of day and using hashtags, links, and retweets in distinct ways. What's more, we can see that the Android tweets are angrier and more negative, while iPhone tweets tend to be benign announcements and pictures."
 
 Robinson's thesis at the beginning of his article helped with my reading of this article; I was able to relate all the analyses he did back to this thesis and it gave the article a lot of focus.
@@ -82,10 +81,31 @@ Robinson's thesis at the beginning of his article helped with my reading of this
 Perhaps it is because I don't know how the tidytext package works, but how do we decide which words we're dividing into? Or is this similar to our readings last week on topic modeling where we tell the program how many words to give us?
 
 #### Gamerman Reading
+> **AHA!:** "Such findings make sense for a first novel, the academics said, since many authors submit manuscripts that are a raw initial account in their own voice."
 
-> **AHA!:**
+This sentence was helpful in my understanding of the purpose of this article since I am not familiar with the ***To Kill a Mockingbird*** versus ***Go Set a Watchman*** authorship debate.
 
-> **UNCLEAR:** 
+> **UNCLEAR:** "The researchers used a computer program to tally the frequency of common words—'the,' 'a,' 'he,' 'she'—and other 'function' words that they said typically make up 50% of a novel."
+
+In the Jockers reading, Burrows also utilized this strategy when analyzing Jane Austen's works. How does tallying common words help researchers determine the writer and style?
+
+#### Mining the Dispatch
+> **AHA!:** "This project, '***Mining the Dispatch***,' seeks to explore—and encourage exploration of—the dramatic and often traumatic changes as well as the sometimes surprising continuities in the social and political life of Civil War Richmond. ... It uses as its principle methodology topic modeling, a computational, probabilistic technique to uncover categories and discover patterns in and among texts."
+
+I think this paragraph does a really good job of explaining the purpose of the project and how its methods connect to its research goals. It helped ground our readings and discussions about topic modeling last week in a more concrete example.
+
+> **UNCLEAR:** "The topics 'poetry and patriotism' and 'anti-northern diatribes' both aimed to motivate southerners to rally to the Confederate cause."
+
+Last week, we discussed the different parts to topic modeling and we briefly touched on themes in topic modeling. Would these two examples would be the topics and would motivating to rally around the Confederate cause be the theme?
+
+#### Signs at 40
+> **AHA!:** "The topic model offers pathways through the overall tendencies that have characterized the journal and novel routes to particular articles from the journal’s run so far."
+
+Again, this sentence does a good job of explaining how the method of topic modeling connects to the project's purpose, which is helpful in my understanding of the project and topic modeling.
+
+> **UNCLEAR:** "Common words with flexible meanings are not always handled well by the modeling process, and as a result there are certain topics in our model that we have found to be more confusing than enlightening for exploring the Signs archive. We have hidden these, so that of the 70 topics only 67 are normally included in the listings and visualizations here."
+
+Last week, we discussed how "date" could have multiple meanings—a romantic event, a time, or a fruit. Are these topics "hidden" because the program and researchers were not able to go through the corpus and differentiate these meanings?
 
 ### 2017-10-09: Stylometry
 
