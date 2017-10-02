@@ -71,12 +71,27 @@ Goldstone and Underwood's explanation of how we can use topic modeling to show s
 I am unsure of what Goldstone and Underwood mean by this and the example that followed was very difficult to understand.
 
 ### 2017-10-02: Topic Modeling II
+#### Robinson Reading
+
+> **AHA!:** "My analysis, shown below, concludes that the Android and iPhone tweets are clearly from different people, posting during different times of day and using hashtags, links, and retweets in distinct ways. What's more, we can see that the Android tweets are angrier and more negative, while iPhone tweets tend to be benign announcements and pictures."
+
+Robinson's thesis at the beginning of his article helped with my reading of this article; I was able to relate all the analyses he did back to this thesis and it gave the article a lot of focus.
+
+> **UNCLEAR:** "We start by dividing into individual words using the unnest_tokens function..."
+
+Perhaps it is because I don't know how the tidytext package works, but how do we decide which words we're dividing into? Or is this similar to our readings last week on topic modeling where we tell the program how many words to give us?
+
+#### Gamerman Reading
+
+> **AHA!:**
+
+> **UNCLEAR:** 
 
 ### 2017-10-09: Stylometry
 
 ### 2017-10-18: Spatial history
 
-### 2017-10-23: Mapping: A Critical Introductin
+### 2017-10-23: Mapping: A Critical Introduction
 
 ### 2017-11-06: Social networks
 
