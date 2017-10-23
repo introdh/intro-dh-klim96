@@ -129,9 +129,23 @@ This was helpful in understanding how the geodatabase works.
 How does one correlate and merge historical maps and how does this method help in Shnayder and White's goals?
 
 #### White Reading
-> **AHA!:** "
+> **AHA!:** "Henri Lefebvre The Production of Space introduced a generation of historians to the idea that space is neither simply natural geography nor an empty container filled by history. It is rather something that human beings produce over time."
 
-> **UNCLEAR:** "
+This clarified the meaning of "space" in this week's readings.
+
+> **UNCLEAR:** "They pay, I think, more attention to the language of spatiality than to the spatial experience, but many of the projects on this web site are more interested in spatial experience and spatial practice than language, and this has forced us to ask myself some hard questions."
+
+Though White goes on to explain that spatial experience is movement, I am unsure what the difference is between language of spatiality and spatial experience.
+
+#### American Panorama
+
+> **UNCLEAR:** "*American Panorama* is an historical atlas of the United States for the twenty-first century."
+
+The descriptions the website offers, like this one, do not make it clear what *American Panorama* is about or what its goals are.
+
+> **AHA!:** Mapping Inequality: Redlining in New Deal America
+
+Seeing this linked on the website, since I've gone to this site before, helped me understand what *American Panorama* is about.
 
 ### 2017-10-23: Mapping: A Critical Introduction
 
