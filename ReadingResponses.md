@@ -147,6 +147,16 @@ The descriptions the website offers, like this one, do not make it clear what *A
 
 Seeing this linked on the website, since I've gone to this site before, helped me understand what *American Panorama* is about.
 
+#### Crampton Reading
+
+> **AHA!:** "The basic viewpoint is that mapping (i.e., cartography and GIS) is both capable of engaging with critical issues, and has often done so."
+
+This was a nice way to offer a solution between the two silences that Crampton describes and shows the importance of mapping.
+
+> **UNCLEAR:** ""
+
+The descriptions the website offers, like this one, do not make it clear what *American Panorama* is about or what its goals are.
+
 ### 2017-10-23: Mapping: A Critical Introduction
 
 ### 2017-11-06: Social networks
