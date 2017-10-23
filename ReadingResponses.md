@@ -110,6 +110,28 @@ Last week, we discussed how "date" could have multiple meanings—a romantic eve
 ### 2017-10-09: Stylometry
 
 ### 2017-10-18: Spatial history
+#### Bodenhamer Reading
+> **AHA!:** "Subject matter, once organized largely as periods and eras, increasingly is ordered under spatial themes, such as region, diaspora, contact zones, and borders or boundaries, among others."
+
+These are great examples and a good contrast that helped me form my understanding of spatial history.
+
+> **UNCLEAR:** "For many humanists, space itself became less geographical and more metaphorical, as scholars found richer meaning in conceptual space—for instance, gendered space, racialized space, or the body as space—than in categories related to the physical environment, the traditional frame of definition for spatial terms."
+
+I am confused by what he means by metaphorical, or conceptual, space.
+
+#### Shnayder Reading
+> **AHA!:** "Once data is entered into the geodatabase, the Western Railroads Geodatabase allows for comprehensive searches through the ArcGIS 'find' feature in conjunction with all of the other inputted data sources. For example, we can search the entire geodatabase to see all of the lines operated by a specific railroad company, and then further investigate this company’s history by seeing where they first built rail tracks.
+
+This was helpful in understanding how the geodatabase works.
+
+> **UNCLEAR:** "Like other historians, we also use historical maps, but we differ in trying to systematically correlate and merge them with other data."
+
+How does one correlate and merge historical maps and how does this method help in Shnayder and White's goals?
+
+#### White Reading
+> **AHA!:** "
+
+> **UNCLEAR:** "
 
 ### 2017-10-23: Mapping: A Critical Introduction
 
