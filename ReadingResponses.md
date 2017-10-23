@@ -153,9 +153,9 @@ Seeing this linked on the website, since I've gone to this site before, helped m
 
 This was a nice way to offer a solution between the two silences that Crampton describes and shows the importance of mapping.
 
-> **UNCLEAR:** ""
+> **UNCLEAR:** "Second, it became as it were 'post-political' by throwing off the fatal attraction to propaganda and ideological mapping evidenced prior to and during the war, and promoting a kind of Swiss-like neutrality about politics."
 
-The descriptions the website offers, like this one, do not make it clear what *American Panorama* is about or what its goals are.
+I am uncertain what this means about maps and if by saying this is a myth, Crampton is also implying that this is bad.
 
 ### 2017-10-23: Mapping: A Critical Introduction
 
