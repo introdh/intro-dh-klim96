@@ -7,8 +7,11 @@ Here in your repository, write your answers to the following:
 
 (1) Formulate the humanities question(s) guiding the project. 
 
+> What role does music play in a film's success?
 
 (2) Provide a one-paragraph abstract written for a nonspecialist audience, clearly explaining the project’s principal activities and its expected results.
+
+> In 1937, The Walt Disney Company made history when it released a soundtrack for its first film, *Snow White and the Seven Dwarfs*, as it was the first commercially released film soundtrack. Since then, Disney and other production companies have released musical films that have achieved success at the box office. The goal of this research is to study the effect music has on a film's success. I will do this by collecting data on the film and its soundtrack and then analyzing that data through statistical methods and tidy data. This project is engaged in the fields of digital humanities, music, and film studies.
 
 The characterstics of a strong abstract:
 
