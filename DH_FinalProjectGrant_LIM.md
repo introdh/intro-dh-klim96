@@ -57,7 +57,7 @@ Some projects that are similar to mine are Distant Viewing, Mapping St. Petersbu
 
 ![alt text](https://github.com/introdh/intro-dh-klim96/blob/master/Screen%20Shot%202017-12-03%20at%207.41.38%20PM.png)
 
-Though these three projects are similar to mine, none none of them explore Asian representation in media through space and place; therefore, my project is the first of its kind. However, I will adapt some of the methods and ideas these projects explore to my own work.
+Though these three projects are similar to mine, none of them explore Asian representation in media through space and place; therefore, my project is the first of its kind. However, I will adapt some of the methods and ideas these projects explore to my own work.
 
 ### History of the Project
 
