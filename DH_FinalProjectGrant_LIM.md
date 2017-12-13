@@ -47,3 +47,13 @@ Some projects that are similar to mine are Distant Viewing, Mapping St. Petersbu
 ![alt text](https://github.com/introdh/intro-dh-klim96/blob/master/Screen%20Shot%202017-12-03%20at%207.41.38%20PM.png)
 
 Though these three projects are similar to mine, none none of them explore Asian representation in media through space and place; therefore, my project is the first of its kind. However, I will adapt some of the methods and ideas these projects explore to my own work.
+
+### History of the Project
+
+### Work Plan
+![alt text](https://github.com/introdh/intro-dh-klim96/blob/master/BallaLittle.gif)
+
+## Staff
+
+## Final Project and Dissemination
+The project will be hosted on a website, much like Mapping St. Petersburg and Civil War Washington. With new shows and episodes always coming out, this project will be a work in progress. I will create social media accounts such as Twitter and Instagram to promote the project. In addition, I plan to also feature a blog on the website, which future contributors could offer their own thoughts on the project, Asian representation in the media, different TV shows, and more. If I need to adapt Distant Viewing’s computational techniques to recognize Asian faces, I will make sure that this technique will be available for free on my site. 
