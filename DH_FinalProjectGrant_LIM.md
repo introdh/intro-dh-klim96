@@ -1,5 +1,16 @@
 ## Table of Contents
-
+1. [List of Participants](https://github.com/introdh/intro-dh-klim96/blob/master/DH_FinalProjectGrant_LIM.md#list-of-participants)
+2. [Abstract](https://github.com/introdh/intro-dh-klim96/blob/master/DH_FinalProjectGrant_LIM.md#abstract)
+3. [Narrative](https://github.com/introdh/intro-dh-klim96/blob/master/DH_FinalProjectGrant_LIM.md#narrative)
+   
+   - [Enhancing the Humanities](https://github.com/introdh/intro-dh-klim96/blob/master/DH_FinalProjectGrant_LIM.md#enhancing-the-humanities)
+   
+   - [Environmental Scan](https://github.com/introdh/intro-dh-klim96/blob/master/DH_FinalProjectGrant_LIM.md#environmental-scan)
+   - [History of the Project](https://github.com/introdh/intro-dh-klim96/blob/master/DH_FinalProjectGrant_LIM.md#history-of-the-project)
+   - [Work Plan](https://github.com/introdh/intro-dh-klim96/blob/master/DH_FinalProjectGrant_LIM.md#work-plan)
+4. [Staff](https://github.com/introdh/intro-dh-klim96/blob/master/DH_FinalProjectGrant_LIM.md#staff)
+5. [Final Project and Dissemination](https://github.com/introdh/intro-dh-klim96/blob/master/DH_FinalProjectGrant_LIM.md#final-project-and-dissemination)
+   
 ## List of Participants
 Karissa Lim, University of Richmond
 
