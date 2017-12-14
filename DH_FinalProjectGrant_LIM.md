@@ -16,7 +16,7 @@ Karissa Lim, University of Richmond
 
 Dr. Lauren Tilton, University of Richmond
 
-Dr. Taylor Arnold
+Dr. Taylor Arnold, University of Richmond
 
 Rhetoric & Communication Studies Department Faculty, University of Richmond
    - Dr. Paul Achter
