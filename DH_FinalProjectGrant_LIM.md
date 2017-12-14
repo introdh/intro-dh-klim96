@@ -22,9 +22,9 @@ Rhetoric & Communication Studies Department Faculty, University of Richmond
   
    Dr. Paul Achter  
   
-   Dr. Timothy Barney  
-  
-   Dr. Eva Hageman  
+   Dr. Timothy Barney  
+   
+   Dr. Eva Hageman  
   
    Dr. Nicole Maurantonio  
   
