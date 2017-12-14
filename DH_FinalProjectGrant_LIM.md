@@ -19,11 +19,17 @@ Dr. Lauren Tilton, University of Richmond
 Dr. Taylor Arnold
 
 Rhetoric & Communication Studies Department Faculty, University of Richmond
+   
    Dr. Paul Achter  
+   
    Dr. Timothy Barney  
+   
    Dr. Eva Hageman  
+   
    Dr. Nicole Maurantonio  
+   
    Dr. Mari Lee Mifsud  
+   
    Dr. Andrea Vickery  
 
 ## Abstract
