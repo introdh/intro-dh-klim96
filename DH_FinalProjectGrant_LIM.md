@@ -23,14 +23,14 @@ Rhetoric & Communication Studies Department Faculty, University of Richmond
    Dr. Paul Achter  
   
    Dr. Timothy Barney  
-   
-   Dr. Eva Hageman  
+  
+    Dr. Eva Hageman  
   
    Dr. Nicole Maurantonio  
   
    Dr. Mari Lee Mifsud  
   
-   Dr. Andrea Vickery  
+    Dr. Andrea Vickery  
 
 ## Abstract
 ## Narrative
