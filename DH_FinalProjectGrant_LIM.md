@@ -16,6 +16,8 @@ Karissa Lim, University of Richmond
 
 Dr. Lauren Tilton, University of Richmond
 
+Rhetoric & Communication Studies Department Faculty, University of Richmond
+
 ## Abstract
 ## Narrative
 ### Enhancing the Humanities
@@ -68,7 +70,7 @@ For my project’s launch, I will start with mapping *Fresh Off the Boat*, *Mast
 
 To begin mapping these shows, I will first collect all the available episodes of these shows. *Fresh Off the Boat* season four is still airing on ABC, so I will collect the episodes from seasons one to three. Next, I will work with Dr. Tilton from Distant Viewing to adapt her project’s computational technique to mine; once that is completed, I will use this method to begin scanning the shows for Asian characters and their locations.
 
-After I have collected the locations and characters from the different shows, I will begin to develop my maps. Each show will be its own layer over the basemap with pins in each location visited on the show. I will work on each show season by season, using a season slider adapted from Civil War Washington, and location by location, writing up background and analyses for each location. During this stage, Dr. Tilton will act as my mentor and evaluate the results of my project. I will also recruit different professors from the University of Richmond Rhetoric & Communications Studies department, such as Dr. Maurantonio and Dr. Mifsud, to also act as mentors to evaluate my work.
+After I have collected the locations and characters from the different shows, I will begin to develop my maps. Each show will be its own layer over the basemap with pins in each location visited on the show. I will work on each show season by season, using a season slider adapted from Civil War Washington, and location by location, writing up background and analyses for each location. During this stage, Dr. Tilton will act as my mentor and evaluate the results of my project. I will also recruit different professors from the University of Richmond Rhetoric & Communication Studies department, such as Dr. Maurantonio and Dr. Mifsud, to also act as mentors to evaluate my work.
 
 Since there is a lot of work to be done since I am mapping three shows that have multiple seasons, my lack of staff may hinder progress. To combat this, I will reach out to other students in the Rhetoric & Communication Studies department and students in Asian culture clubs to act as collaborators. Another problem I may run into is access to these shows; *Master of None* is only available on Netflix, *The Mindy Project* is available on Hulu, and *Fresh Off the Boat* currently runs on ABC. The most problematic show would be *Fresh Off the Boat* since it is on ABC; many of its earlier episodes may not be readily accessible on the network’s website. However, with funding from this grant, I will have money to buy subscriptions to Netflix and Hulu and can buy *Fresh Off the Boat* episodes on Amazon Video.
 
