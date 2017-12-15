@@ -115,10 +115,11 @@ In this episode, Dev is seen in multiple auditions, which challenge and uphold A
 
 After the audition, Dev meets up with his friend Ravi, who is also Indian, in a coffee shop. Here, we see two Asians, who are both actors, as the characters in focus in this physical place. They discuss the problems of Indian representation on TV and Ravi offers his defense for upholding the Indian stereotype and using an Indian accent in his audition. Coffee shops are spaces where friends gather to catch up; however, by allowing two Asians to have a dialogue about the lack of representation on TV, this turns the physical place into a racialized space that challenges stereotypes.
 
+![alt text](https://github.com/introdh/intro-dh-klim96/blob/master/Screen%20Shot%202017-12-14%20at%208.52.22%20PM.png)
+
 In the second audition, Ravi and Dev are in another audition for a show that is “open ethnicity.” There are actors of different ethnicities sitting in the waiting room, which turns the physical place of the audition into a space that challenges the traditional audition practice of requesting actors of a specific ethnicity.
 
 These three places from *Master of None*—the first audition, the coffee shop, and the second audition—uphold and challenge Asian stereotypes in different ways. In these locations, we see Asians in places that audiences do not usually see them in. However, by allowing Asians into these places and having the aforementioned conversations in these places, it changes these physical places into spaces that are controlled by Asians, make race more salient, and challenge preconceived notions of Asians.
-
 
 ### Work Plan
 ![alt text](https://github.com/introdh/intro-dh-klim96/blob/master/BallaLittle.gif)
