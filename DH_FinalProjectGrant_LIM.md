@@ -105,6 +105,16 @@ Some projects that are similar to mine are Distant Viewing, Mapping St. Petersbu
 Though these three projects are similar to mine, none of them explore Asian representation in media through space and place; therefore, my project is the first of its kind. However, I will adapt some of the methods and ideas these projects explore to my own work.
 
 ### History of the Project
+To begin this project, I analyzed the *Master of None* episode “Indians on TV” (Season 1, Episode 4). This episode provided the inspiration for my project. I offer some of my initial analyses below.
+
+In this episode, Dev is seen in multiple auditions, which challenge and uphold Asian stereotypes. In his first audition, the room is filled with other Indian actors. This challenges Asian stereotypes because we do not usually think of Asians as actors; more importantly, we do not think about the process Asian actors must go through to be seen on TV. Race becomes very salient in this space. Next, Dev enters the audition room in which a white woman is running the audition and an Asian young woman acts as her assistant and works the camera. Again, we see Asians in media, which challenges the stereotype that Asians are not actors; however, this is all the “behind the scenes” work of creating a show so the Asians in this room are never seen on the screen of the fictional show they are working on. The dialogue in this scene upholds stereotypes of Asians since the white woman is asking Dev to say his lines in an Indian accent. Also, the white woman has the power in this room and exerting her control over Dev to make him stick to his stereotype. However, he challenges this by refusing to do the accent and arguing with the woman.
+
+After the audition, Dev meets up with his friend Ravi, who is also Indian, in a coffee shop. Here, we see two Asians, who are both actors, as the characters in focus in this physical place. They discuss the problems of Indian representation on TV and Ravi offers his defense for upholding the Indian stereotype and using an Indian accent in his audition. Coffee shops are spaces where friends gather to catch up; however, by allowing two Asians to have a dialogue about the lack of representation on TV, this turns the physical place into a racialized space that challenges stereotypes.
+
+In the second audition, Ravi and Dev are in another audition for a show that is “open ethnicity.” There are actors of different ethnicities sitting in the waiting room, which turns the physical place of the audition into a space that challenges the traditional audition practice of requesting actors of a specific ethnicity.
+
+These three places from *Master of None*—the first audition, the coffee shop, and the second audition—uphold and challenge Asian stereotypes in different ways. In these locations, we see Asians in places that audiences do not usually see them in. However, by allowing Asians into these places and having the aforementioned conversations in these places, it changes these physical places into spaces that are controlled by Asians, make race more salient, and challenge preconceived notions of Asians.
+
 
 ### Work Plan
 ![alt text](https://github.com/introdh/intro-dh-klim96/blob/master/BallaLittle.gif)
