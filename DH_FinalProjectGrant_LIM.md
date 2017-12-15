@@ -133,7 +133,11 @@ After I have collected the locations and characters from the different shows, I 
 Since there is a lot of work to be done since I am mapping three shows that have multiple seasons, my lack of staff may hinder progress. To combat this, I will reach out to other students in the Rhetoric & Communication Studies department and students in Asian culture clubs to act as collaborators. Another problem I may run into is access to these shows; *Master of None* is only available on Netflix, *The Mindy Project* is available on Hulu, and *Fresh Off the Boat* currently runs on ABC. The most problematic show would be *Fresh Off the Boat* since it is on ABC; many of its earlier episodes may not be readily accessible on the network’s website. However, with funding from this grant, I will have money to buy subscriptions to Netflix and Hulu and can buy *Fresh Off the Boat* episodes on Amazon Video.
 
 ## Staff
-I will act as the project director. I will be in charge of the organization and schedule of the project. In addition, I will serve as the main creator and analyzer of the maps. If needed, I will recruit students from the University of Richmond Rhetoric & Communication Studies department and students in Asian culture clubs to assist me; however, I plan to be the main contributor on this project. 
+I will act as the project director. I will be in charge of the organization and schedule of the project. In addition, I will serve as the main creator and analyzer of the maps. 
+
+![alt text](https://github.com/introdh/intro-dh-klim96/blob/master/jessicahuang.gif)
+
+If needed, I will recruit students from the University of Richmond Rhetoric & Communication Studies department and students in Asian culture clubs to assist me; however, I plan to be the main contributor on this project. 
 
 Dr. Tilton will be my main mentor for this project. She will also act as a collaborator since she, along with Dr. Arnold, will help me adapt the Distant Viewing methods for my project. 
 
